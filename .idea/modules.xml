@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Client_A/Client_A.iml" filepath="$PROJECT_DIR$/Client_A/Client_A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client_B/Client_B.iml" filepath="$PROJECT_DIR$/Client_B/Client_B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client_C/Client_C.iml" filepath="$PROJECT_DIR$/Client_C/Client_C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RingSOAPCLients.iml" filepath="$PROJECT_DIR$/RingSOAPCLients.iml" />
+    </modules>
+  </component>
+</project>
